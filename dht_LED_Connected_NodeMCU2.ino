@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // Define LED pins
-#define led1 D1
-#define led2 D4
+#define led1 D3
+#define led2 D8
 
 #define DHTPIN D7 //dht pin
 #define DHTTYPE DHT11 //dht  type
