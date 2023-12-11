@@ -3,7 +3,7 @@
 #include <espnow.h>
 
 // Define Button pins
-#define btn1 D1
+#define btn1 D0
 #define btn2 D4
 
 bool btn1State = false;
